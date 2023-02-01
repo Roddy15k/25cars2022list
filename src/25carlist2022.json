@@ -1,0 +1,533 @@
+[
+  {
+    "brand": "Honda",
+    "car": "Civic",
+    "type": "Sedan",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2017_Honda_Civic_SR_VTEC_1.0_Front.jpg/280px-2017_Honda_Civic_SR_VTEC_1.0_Front.jpg",
+    "id": 1025,
+    "country_hq": "Japan",
+    "first_year_sold": "1972",
+    "units_sold": "133,932",
+
+    "editions": [
+      {
+        "model": "LX",
+        "engine": "4 cyc"
+      },
+      {
+        "model": "EX",
+        "engine": "6 cyc"
+      }
+    ]
+  },
+
+  {
+    "brand": "Ford",
+    "car": "Escape",
+    "type": "SUV",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2020_Ford_Escape_SEL%2C_front_7.11.20.jpg/280px-2020_Ford_Escape_SEL%2C_front_7.11.20.jpg",
+    "id": 1024,
+    "country_hq": "United States",
+    "first_year_sold": "2001",
+    "units_sold": "137370",
+
+    "editions": [
+      {
+        "model": "S",
+        "engine": "181hp"
+      },
+      {
+        "model": "SE",
+        "engine": "250hp"
+      }
+    ]
+  },
+  {
+    "brand": "Nissan",
+    "car": "Altima",
+    "type": "Sedan",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2019_Nissan_Altima_SL_2.5L_front_3.22.19.jpg/280px-2019_Nissan_Altima_SL_2.5L_front_3.22.19.jpg",
+    "id": 1023,
+    "country_hq": "Japan",
+    "first_year_sold": "1992",
+    "units_sold": "139,955",
+
+    "editions": [
+      {
+        "model": "S",
+        "engine": "181hp"
+      },
+      {
+        "model": "SE",
+        "engine": "250hp"
+      }
+    ]
+  },
+
+  {
+    "brand": "Subaru",
+    "car": "Outback",
+    "type": "SUV",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/2020_Subaru_Outback_AWD%2C_front.jpg/280px-2020_Subaru_Outback_AWD%2C_front.jpg",
+    "id": 1022,
+    "country_hq": "Japan",
+    "first_year_sold": "1989",
+    "units_sold": "147,262",
+
+    "editions": [
+      {
+        "model": "Base",
+        "engine": "182hp"
+      },
+      {
+        "model": "Premium",
+        "engine": "182hp"
+      }
+    ]
+  },
+  {
+    "brand": "Mazda",
+    "car": "CX-5",
+    "type": "SUV",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mazda_CX-5_%28KF%29_1X7A0333.jpg/280px-Mazda_CX-5_%28KF%29_1X7A0333.jpg",
+    "id": 1021,
+    "country_hq": "Japan",
+    "first_year_sold": "2012",
+    "units_sold": "151,594",
+
+    "editions": [
+      {
+        "model": "S",
+        "engine": "187hp"
+      },
+      {
+        "model": "S Select",
+        "engine": "187hp"
+      }
+    ]
+  },
+  {
+    "brand": "Honda",
+    "car": "Accord",
+    "type": "Sedan",
+    "picture_path": "https://img2.carmax.com/assets/23812738/hero.jpg?width=400",
+    "id": 1020,
+    "country_hq": "Japan",
+    "first_year_sold": "1976",
+    "units_sold": "154,612",
+
+    "editions": [
+      {
+        "model": "LX",
+        "engine": "192hp"
+      },
+      {
+        "model": "Sport",
+        "engine": "192hp"
+      }
+    ]
+  },
+  {
+    "brand": "Subaru",
+    "car": "Crosstrek",
+    "type": "SUV",
+    "picture_path": "https://img2.carmax.com/assets/23696579/hero.jpg?width=400",
+    "id": 1019,
+    "country_hq": "Japan",
+    "first_year_sold": "2012",
+    "units_sold": "155,142",
+
+    "editions": [
+      {
+        "model": "Base",
+        "engine": "152hp"
+      },
+      {
+        "model": "NA",
+        "engine": "NA"
+      }
+    ]
+  },
+  {
+    "brand": "Hyundai",
+    "car": "Tuson",
+    "type": "SUV",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2021_Hyundai_Tucson_Ultimate_T-GDi_MHEV_1.6.jpg/280px-2021_Hyundai_Tucson_Ultimate_T-GDi_MHEV_1.6.jpg",
+    "id": 1018,
+    "country_hq": "Japan",
+    "first_year_sold": "1989",
+    "units_sold": "175,307",
+
+    "editions": [
+      {
+        "model": "SE",
+        "engine": "187hp"
+      },
+      {
+        "model": "SEL",
+        "engine": "187hp"
+      }
+    ]
+  },
+  {
+    "brand": "Jeep",
+    "car": "Wrangler",
+    "type": "SUV",
+    "picture_path": "https://img2.carmax.com/assets/23735702/hero.jpg?width=400",
+    "id": 1017,
+    "country_hq": "United States",
+    "first_year_sold": "1986",
+    "units_sold": "181,409",
+
+    "editions": [
+      {
+        "model": "Sport",
+        "engine": "285hp"
+      },
+      {
+        "model": "Sport S",
+        "engine": "285hp"
+      }
+    ]
+  },
+
+  {
+    "brand": "Nissan",
+    "car": "Rogue",
+    "type": "SUV",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2021_Nissan_Rogue.jpg/280px-2021_Nissan_Rogue.jpg",
+    "id": 1016,
+    "country_hq": "Japan",
+    "first_year_sold": "2007",
+    "units_sold": "186,480",
+
+    "editions": [
+      {
+        "model": "S",
+        "engine": "201hp"
+      },
+      {
+        "model": "SV",
+        "engine": "201hp"
+      }
+    ]
+  },
+  {
+    "brand": "Tesla",
+    "car": "Model 3",
+    "type": "Sedan",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/2021_Tesla_Model_3%2C_front_11.10.21.jpg/280px-2021_Tesla_Model_3%2C_front_11.10.21.jpg",
+    "id": 1015,
+    "country_hq": "United States",
+    "first_year_sold": "2017",
+    "units_sold": "181,409",
+
+    "editions": [
+      {
+        "model": "Base",
+        "engine": "279hp"
+      },
+      {
+        "model": "Performance",
+        "engine": "450hp"
+      }
+    ]
+  },
+
+  {
+    "brand": "Ford",
+    "car": "Explorer",
+    "type": "SUV",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/2020_Ford_Explorer_XLT_in_Oxford_White%2C_front_left.jpg/280px-2020_Ford_Explorer_XLT_in_Oxford_White%2C_front_left.jpg",
+    "id": 1014,
+    "country_hq": "United States",
+    "first_year_sold": "1986",
+    "units_sold": "181,409",
+
+    "editions": [
+      {
+        "model": "Base",
+        "engine": "300hp"
+      },
+      {
+        "model": "XLT",
+        "engine": "300hp"
+      }
+    ]
+  },
+
+  {
+    "brand": "Chevy",
+    "car": "Equinox",
+    "type": "SUV",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2019_Chevrolet_Equinox%2C_front_3.24.19.jpg/280px-2019_Chevrolet_Equinox%2C_front_3.24.19.jpg",
+    "id": 1013,
+    "country_hq": "United States",
+    "first_year_sold": "1986",
+    "units_sold": "181,409",
+
+    "editions": [
+      {
+        "model": "LS",
+        "engine": "175hp"
+      },
+      {
+        "model": "LT",
+        "engine": "175hp"
+      }
+    ]
+  },
+
+  {
+    "brand": "Toyota",
+    "car": "Corolla",
+    "type": "Sedan",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/2019_Toyota_Corolla_Design_VVT-i_HEV_1.8_Front.jpg/280px-2019_Toyota_Corolla_Design_VVT-i_HEV_1.8_Front.jpg",
+    "id": 1012,
+    "country_hq": "Japan",
+    "first_year_sold": "1966",
+    "units_sold": "222,216",
+
+    "editions": [
+      {
+        "model": "LE",
+        "engine": "169hp"
+      },
+      {
+        "model": "SE",
+        "engine": "169hp"
+      }
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "car": "Highlander",
+    "type": "SUV",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg/280px-Toyota_Highlander_Hybrid_%28XU70%29_1X7A6356.jpg",
+    "id": 1011,
+    "country_hq": "Japan",
+    "first_year_sold": "2000",
+    "units_sold": "222,805",
+
+    "editions": [
+      {
+        "model": "L",
+        "engine": "265hp"
+      },
+      {
+        "model": "LE",
+        "engine": "265hp"
+      }
+    ]
+  },
+  {
+    "brand": "Jeep",
+    "car": "Grand Cherokee",
+    "type": "SUV",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Jeep_Grand_Cherokee_L_Overland_Automesse_Ludwigsburg_2022_1X7A5918.jpg/200px-Jeep_Grand_Cherokee_L_Overland_Automesse_Ludwigsburg_2022_1X7A5918.jpg",
+    "id": 1010,
+    "country_hq": "United States",
+    "first_year_sold": "1992",
+    "units_sold": "223,345",
+
+    "editions": [
+      {
+        "model": "Laredo",
+        "engine": "293hp"
+      },
+      {
+        "model": "Altitude",
+        "engine": "293hp"
+      }
+    ]
+  },
+  {
+    "brand": "Tesla",
+    "car": "Model Y",
+    "type": "Sedan",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2020_Tesla_Model_Y%2C_front_8.1.20.jpg/280px-2020_Tesla_Model_Y%2C_front_8.1.20.jpg",
+    "id": 1009,
+    "country_hq": "United States",
+    "first_year_sold": "2020",
+    "units_sold": "231,400",
+
+    "editions": [
+      {
+        "model": "Long Range",
+        "engine": "279hp"
+      },
+      {
+        "model": "Performance",
+        "engine": "450hp"
+      }
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "car": "Tacoma",
+    "type": "Truck",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Toyota_Tacoma_TRD_Pro_front_NYIAS_2019.jpg/280px-2020_Toyota_Tacoma_TRD_Pro_front_NYIAS_2019.jpg",
+    "id": 1008,
+    "country_hq": "Japan",
+    "first_year_sold": "1995",
+    "units_sold": "237,323",
+
+    "editions": [
+      {
+        "model": "SR5",
+        "engine": "159hp"
+      },
+      {
+        "model": "TRD",
+        "engine": "278hp"
+      }
+    ]
+  },
+  {
+    "brand": "Honda",
+    "car": "CR-V",
+    "type": "SUV",
+    "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Honda_CR-V_2.0_i-MMD_Hybrid_Lifestyle_%28V%29_%E2%80%93_f_02012021.jpg/280px-Honda_CR-V_2.0_i-MMD_Hybrid_Lifestyle_%28V%29_%E2%80%93_f_02012021.jpg",
+    "id": 1007,
+    "country_hq": "Japan",
+    "first_year_sold": "1995",
+    "units_sold": "238,155",
+
+    "editions": [
+      {
+        "model": "EX",
+        "engine": "190hp"
+      },
+      {
+        "model": "Sport Touring",
+        "engine": "204hp"
+      }
+    ]
+  },
+  {
+    "brand": "GMC",
+    "car": "Sierra",
+    "type": "Truck",
+    "picture_path": "https://img2.carmax.com/assets/22867666/hero.jpg?width=400",
+    "id": 1006,
+    "country_hq": "United States",
+    "first_year_sold": "1986",
+    "units_sold": "241,522",
+
+    "editions": [
+      {
+        "model": "Pro",
+        "engine": "310hp"
+      },
+      {
+        "model": "SLE",
+        "engine": "310hp"
+      }
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "car": "Camry",
+    "type": "Sedan",
+    "picture_path": "https://img2.carmax.com/assets/22896969/hero.jpg?width=400",
+    "id": 1005,
+    "country_hq": "Japan",
+    "first_year_sold": "1982",
+    "units_sold": "295,201",
+
+    "editions": [
+      {
+        "model": "LE",
+        "engine": "203hp"
+      },
+      {
+        "model": "SE",
+        "engine": "203hp"
+      }
+    ]
+  },
+  {
+    "brand": "Toyota",
+    "car": "Rav4",
+    "type": "SUV",
+    "picture_path": "https://img2.carmax.com/assets/23696747/hero.jpg?width=400",
+    "id": 1004,
+    "country_hq": "Japan",
+    "first_year_sold": "1994",
+    "units_sold": "399,941",
+
+    "editions": [
+      {
+        "model": "LE",
+        "engine": "203hp"
+      },
+      {
+        "model": "XLE",
+        "engine": "203hp"
+      }
+    ]
+  },
+  {
+    "brand": "Ram",
+    "car": "1500",
+    "type": "Truck",
+    "picture_path": "https://img2.carmax.com/assets/23812129/hero.jpg?width=400",
+    "id": 1003,
+    "country_hq": "United States",
+    "first_year_sold": "1986",
+    "units_sold": "468,344",
+
+    "editions": [
+      {
+        "model": "Tradesman",
+        "engine": "305hp"
+      },
+      {
+        "model": "Big Horn",
+        "engine": "305hp"
+      }
+    ]
+  },
+  {
+    "brand": "Chevy",
+    "car": "Silverado",
+    "type": "Truck",
+    "picture_path": "https://img2.carmax.com/assets/23669766/hero.jpg?width=400",
+    "id": 1002,
+    "country_hq": "United States",
+    "first_year_sold": "1998",
+    "units_sold": "513,354",
+
+    "editions": [
+      {
+        "model": "Work Truck",
+        "engine": "310hp"
+      },
+      {
+        "model": "Custom",
+        "engine": "310hp"
+      }
+    ]
+  },
+  {
+    "brand": "Ford",
+    "car": "F Series",
+    "type": "Truck",
+    "picture_path": "https://img2.carmax.com/assets/23900763/hero.jpg?width=400",
+    "id": 1001,
+    "country_hq": "United States",
+    "first_year_sold": "1975",
+    "units_sold": "653,957",
+
+    "editions": [
+      {
+        "model": "XL",
+        "engine": "290hp"
+      },
+      {
+        "model": "XLT",
+        "engine": "290hp"
+      }
+    ]
+  }
+]

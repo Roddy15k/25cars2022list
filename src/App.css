@@ -3,3 +3,15 @@ body {
   width: 100vw;
   background-color: royalblue;
 }
+.dialog-box{
+  display: flex;
+  flex-direction: row;
+  
+}
+.list{
+  display:flex;
+  flex-direction: row;
+  height: 80px;
+  margin:0
+
+}

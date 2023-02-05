@@ -9,6 +9,7 @@ body {
   margin-left: 5px;
   border-radius: 12px;
   color: darkgray;
+  
   /* display:block; */
   background-image: url(https://images.pexels.com/photos/358255/pexels-photo-358255.jpeg?auto=compress&cs=tinysrgb&w=300);
   background-size: 200px;
@@ -21,17 +22,20 @@ body {
   
 }
 .list{
+  background-color: lightgray;
   border: 2px solid grey;
-  padding: 20px;
+  border-radius: 10px;
+  gap:30px;
   display:flex;
-  float:none;
+  
   font-family: Georgia, 'Times New Roman', Times, serif;
   
-  gap: 10px;
-  flex-direction: row;
+ 
+  flex-direction:row ;
   height: 100px;
-  margin:2;
-  padding: 10px
+  width: 92vw;
+  margin:0;
+  padding: 0px
   
   
 

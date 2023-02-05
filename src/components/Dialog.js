@@ -4,7 +4,7 @@ const Dialog = () => {
       <h1>Top 25 cars sold in 2022</h1>
       <h2>
         We will review thhe best selling vehicles of 2022. Some vehicles that
-        made the list will be surprizing. Others will be as expected.
+        made the list will be surprising.
       </h2>
     </div>
   )

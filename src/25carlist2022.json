@@ -2,7 +2,7 @@
   {
     "brand": "Honda",
     "car": "Civic",
-    "type": "Sedan",
+    "type": [{ "sedan": "Sedan" }],
     "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2017_Honda_Civic_SR_VTEC_1.0_Front.jpg/280px-2017_Honda_Civic_SR_VTEC_1.0_Front.jpg",
     "id": "#25",
     "country_hq": "Japan",
@@ -24,12 +24,16 @@
   {
     "brand": "Ford",
     "car": "Escape",
-    "type": "SUV",
+    "type": [
+      {
+        "suv": "SUV"
+      }
+    ],
     "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2020_Ford_Escape_SEL%2C_front_7.11.20.jpg/280px-2020_Ford_Escape_SEL%2C_front_7.11.20.jpg",
     "id": "#24",
     "country_hq": "United States",
     "first_year_sold": "2001",
-    "units_sold": "137370",
+    "units_sold": "137,370",
 
     "editions": [
       {
@@ -45,7 +49,7 @@
   {
     "brand": "Nissan",
     "car": "Altima",
-    "type": "Sedan",
+    "type": [{ "sedan": "Sedan" }],
     "picture_path": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2019_Nissan_Altima_SL_2.5L_front_3.22.19.jpg/280px-2019_Nissan_Altima_SL_2.5L_front_3.22.19.jpg",
     "id": "#23",
     "country_hq": "Japan",

@@ -2,16 +2,37 @@ body {
   margin: 0;
   width: 100vw;
   background-color: royalblue;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .dialog-box{
-  display: flex;
-  flex-direction: row;
+  
+  margin-left: 5px;
+  border-radius: 12px;
+  color: darkgray;
+  /* display:block; */
+  background-image: url(https://images.pexels.com/photos/358255/pexels-photo-358255.jpeg?auto=compress&cs=tinysrgb&w=300);
+  background-size: 200px;
+  background-position-y: bottom;
+ 
+  /* align-items: center; */
+  max-width: 100vw
+  
+  
   
 }
 .list{
+  border: 2px solid grey;
+  padding: 20px;
   display:flex;
+  float:none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  gap: 10px;
   flex-direction: row;
-  height: 80px;
-  margin:0
+  height: 100px;
+  margin:2;
+  padding: 10px
+  
+  
 
 }

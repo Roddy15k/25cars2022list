@@ -29,6 +29,7 @@ body {
   display:flex;
   
   font-family: Georgia, 'Times New Roman', Times, serif;
+  vertical-align: baseline;
   
  
   flex-direction:row ;
@@ -40,8 +41,10 @@ body {
 }
 .suvcount{
   display: flex;
+  height: 40px;
   justify-content: space-evenly;
-  align-content: stretch;
+  align-items: center;
+  vertical-align: baseline;
   background-color: mediumslateblue;
   
 

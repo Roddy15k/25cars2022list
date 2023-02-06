@@ -52,7 +52,13 @@ body {
   }
   
 
-.comps-box{
-  display: flexbox;
+.most-units{
+  display: flex;
+  height: 50px;
+  
+  justify-content: space-between;
+  align-content: center;
+  vertical-align: baseline;
+  background-color: mediumpurple;
 
 }

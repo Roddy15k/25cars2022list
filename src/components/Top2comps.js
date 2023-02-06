@@ -1,8 +1,8 @@
 const Comps = () => {
   return (
     <div className="comps-box">
+      <h4>The top two companies of vehicle sales will be compared.</h4>
       <div className="most-units">
-        <h4>The top two companies of vehicle sales will be compared.</h4>
         <p>Which Company sold the most vehicles in 2022?</p>
         <button
           onClick={() => {

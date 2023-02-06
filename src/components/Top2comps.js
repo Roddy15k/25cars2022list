@@ -65,6 +65,7 @@ const Comps = () => {
           Toyota Rav4
         </button>
       </div>
+      <p> References: Car and Driver, and Wikipedia websites.</p>
     </div>
   )
 }

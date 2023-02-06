@@ -39,9 +39,9 @@ body {
 
 }
 .suvcount{
-  display: flexbox;
-  justify-content: center;
-  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: stretch;
   background-color: mediumslateblue;
   
 

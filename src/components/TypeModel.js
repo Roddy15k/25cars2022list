@@ -1,14 +1,16 @@
 const Suvbutton = (props) => {
   return (
     <div className="suvcount">
-      <button
-        onClick={() => {
-          const number = '13'
-          alert('13 total 2022 SUVs made the lists.', number)
-        }}
-      >
-        Total 2022 SUVs
-      </button>
+      <div className="suv">
+        <button
+          onClick={() => {
+            const number = '13'
+            alert('13 total 2022 SUVs made the lists.', number)
+          }}
+        >
+          Total 2022 SUVs
+        </button>
+      </div>
 
       <button
         onClick={() => {

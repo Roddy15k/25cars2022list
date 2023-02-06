@@ -13,6 +13,15 @@
 // export default Dialog
 
 const Suvbutton = (props) => {
-  return <button>click me</button>
+  return (
+    <button
+      onClick={() => {
+        const number = '13'
+        alert('13 total 2022 SUVs made the list.', number)
+      }}
+    >
+      click me now
+    </button>
+  )
 }
 export default Suvbutton

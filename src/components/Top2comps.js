@@ -2,9 +2,8 @@ const Comps = () => {
   return (
     <div className="comps-box">
       <div className="most-units">
-        <h4>Top two vehicle sales companies.</h4>
-        <p>The top two companies of vehicle sales will be compared.</p>
-        <p>Which Company sold the most vehicles?</p>
+        <h4>The top two companies of vehicle sales will be compared.</h4>
+        <p>Which Company sold the most vehicles in 2022?</p>
         <button
           onClick={() => {
             const number = '1'
@@ -39,6 +38,28 @@ const Comps = () => {
               'The Rav4 debuted 3 years earlier than the Explorer in 1994.',
               number
             )
+          }}
+        >
+          Toyota Rav4
+        </button>
+      </div>
+      <div className="horsepower">
+        <p>Which small SUV has can have the most factory horsepower?</p>
+        <button
+          onClick={() => {
+            const number = '4'
+            alert(
+              'The Ford Escape comes with 250hp on Titanium trim. Correct!',
+              number
+            )
+          }}
+        >
+          Ford Escape
+        </button>
+        <button
+          onClick={() => {
+            const number = '5'
+            alert('The Rav4 comes with 203hp on all models.', number)
           }}
         >
           Toyota Rav4

@@ -46,6 +46,13 @@ body {
   align-items: center;
   vertical-align: baseline;
   background-color: mediumslateblue;
+
   
+
+  }
+  
+
+.comps-box{
+  display: flexbox;
 
 }

@@ -35,8 +35,14 @@ body {
   height: 100px;
   width: 92vw;
   margin:0;
-  padding: 0px
-  
+  padding: 0px  
+
+}
+.suvcount{
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  background-color: mediumslateblue;
   
 
 }

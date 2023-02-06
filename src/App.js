@@ -10,7 +10,6 @@ const App = () => {
     <div className="flex-row">
       <Dialog />
       <List carArray={carArray} />
-
       <Suvbutton />
     </div>
   )

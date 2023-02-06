@@ -1,27 +1,32 @@
-// const Style = () => {
-
-//   return (
-//     <div className="dialog-box">
-//       <h1>Top 25 cars sold in 2022</h1>
-//       <h2>
-//         We will review thhe best selling vehicles of 2022. Some vehicles that
-//         made the list will be surprising.
-//       </h2>
-//     </div>
-//   )
-// }
-// export default Dialog
-
 const Suvbutton = (props) => {
   return (
-    <button
-      onClick={() => {
-        const number = '13'
-        alert('13 total 2022 SUVs made the list.', number)
-      }}
-    >
-      click me now
-    </button>
+    <div className="suvcount">
+      <button
+        onClick={() => {
+          const number = '13'
+          alert('13 total 2022 SUVs made the lists.', number)
+        }}
+      >
+        Total 2022 SUVs
+      </button>
+
+      <button
+        onClick={() => {
+          const numbers = '7'
+          alert('7 total 2022 Sedans made the list.', numbers)
+        }}
+      >
+        Total 2022 Sedans
+      </button>
+      <button
+        onClick={() => {
+          const numbers = '5'
+          alert('5 total 2022 Trucks made the list.', numbers)
+        }}
+      >
+        Total 2022 Trucks
+      </button>
+    </div>
   )
 }
 export default Suvbutton

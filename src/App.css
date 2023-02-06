@@ -52,13 +52,13 @@ body {
   }
   
 
-/* .most-units, .first-year,.horsepower{ */
-  .comps-box{
+.most-units, .first-year,.horsepower{
+  /* .comps-box{ */
   display: flex;
-  height: 150px; 
+  height: 40px; 
   width: 100vw; 
   justify-content: space-evenly;
-  align-items: center;
+  align-items: stretch;
   vertical-align: baseline;
   background-color: mediumpurple;
 margin-bottom: 10px;

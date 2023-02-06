@@ -1,5 +1,4 @@
 const List = (props) => {
-  const olstyle = { backgroundColor: 'eggshell' }
   return (
     <div className="listpage">
       <ol>
@@ -10,7 +9,8 @@ const List = (props) => {
             <h4> {list.brand}</h4>
             <h4>{list.car}</h4>
             <p>Units Sold:{list.units_sold}</p>
-            <p>Country of Origin:{list.country_hq}</p>
+            <p>Country of Origin: {list.country_hq}</p>
+            <p>Inaugural Year: {list.first_year_sold}</p>
           </li>
         ))}
       </ol>

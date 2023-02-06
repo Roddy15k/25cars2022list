@@ -1,4 +1,5 @@
-// const Dialog = () => {
+// const Style = () => {
+
 //   return (
 //     <div className="dialog-box">
 //       <h1>Top 25 cars sold in 2022</h1>
@@ -10,3 +11,8 @@
 //   )
 // }
 // export default Dialog
+
+const Suvbutton = (props) => {
+  return <button>click me</button>
+}
+export default Suvbutton

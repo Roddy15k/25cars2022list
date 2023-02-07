@@ -57,6 +57,7 @@ body {
   /* .comps-box{ */
   display: flex;
   border:2px solid black;
+   border-radius: 10px;
   height: 120px; 
   width: 100vw; 
   justify-content: space-evenly;
